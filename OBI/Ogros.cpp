@@ -1,3 +1,4 @@
+// fonte: https://olimpiada.ic.unicamp.br/passadas/OBI2008/fase1/programacao/
 #include<bits/stdc++.h>
 #define maxn 100002
 using namespace std;
